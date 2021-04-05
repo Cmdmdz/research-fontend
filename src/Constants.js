@@ -15,7 +15,7 @@ export const RES_EDIT_SUCCESS = "RESEARCH_EDIT_SUCCESS";
 export const RES_EDIT_FAILED = "RESEARCH_EDIT_FAILED";
 export const RES_EDIT_INITIALED = "RESEARCH_EDIT_INITIALED";
 
-export const apiUrl = "http://research-backend-dev.herokuapp.com/api/";
+export const apiUrl = "https://research-backend-dev.herokuapp.com/";
 
 export const YES = "YES";
 export const NO = "NO";
